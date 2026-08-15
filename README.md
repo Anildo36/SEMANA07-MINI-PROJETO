@@ -1,8 +1,8 @@
 # Mini Projeto Avaliativo - Análise exploratória de Dados (AED)
-# `Base Varejo`
+### `Base Varejo`
 
-** Curso:** Análise de Dados com Python T3
-** Aluno:** Anildo Dos Santos Nascimento
+**Curso:** Análise de Dados com Python T3
+**Aluno:** Anildo Dos Santos Nascimento
 
 
 ## Sobre o projeto
@@ -11,14 +11,14 @@ Análise exploratória da `Base Varejo.csv`, com dados reais de comprasa no vare
 
 ## Arquivos do Projeto
 
-- `análise_exploratoria_dados.ipynb` Notbook com ass análises
+- `analise_exploratoria_dados.ipynb` Notbook com ass análises
 - `Base Varejo.csv`- Base de dados original
 - `df_Limpeza_Dados.csv` - Bsse de Dados já tratadas
 - `README_AnildoSantos_AnaliseDeDadosT3.md` - Instruções e insights
 
 ## Fonte dos Dados
 
-[Kaggle - Base Varejo] (https://www.kaggle.com/datasets/namespaiva/base-varejo/data)
+[Kaggle - Base Varejo](https://www.kaggle.com/datasets/namespaiva/base-varejo/data)
 
 ## Como executar
 
